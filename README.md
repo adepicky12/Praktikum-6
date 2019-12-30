@@ -14,3 +14,8 @@
 *  cetak hasil pencarian
 
 . 4 input_nilai.py berisi modul untuk meminta user menginputkan data
+
+
+
+*     Ade Picky Ammarullah
+*     311910182
