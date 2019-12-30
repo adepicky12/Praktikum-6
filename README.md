@@ -17,5 +17,5 @@
 
 
 
-*     Ade Picky Ammarullah
-*     311910182
+-     Ade Picky Ammarullah
+-     311910182
